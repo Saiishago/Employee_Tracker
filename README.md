@@ -23,6 +23,13 @@ NB: When creating a connetion for your mysql database, play around with >>>> hos
 Github https://github.com/Saiishago/Employee_Tracker
 Walkthrough Video
 ```
+## Mock-Up/Screenshot of Commad-Line
+An example of how the application should run/ should be used
+Image
+![Command-line screenshot](StuffTailer.png)
+
+Video
+![Command-line video of application](https://drive.google.com/file/d/1MSAdzO84GUNdkgE890j9fHmfOXBtSB4V/view?usp=sharing)
 ## Test
 ```md
 To run a table test, type the below text in your command-line
